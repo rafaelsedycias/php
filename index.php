@@ -1,5 +1,5 @@
 <?php
-	echo "Hello, World";
+	echo "Olá, mundo!";
 	
 	//CONSTANTES:
 		define($ARQ01="Teste.txt");
@@ -10,4 +10,5 @@
 		function msg ($par1){
 			echo $par1."<br/>"
 		}
+
 ?>
